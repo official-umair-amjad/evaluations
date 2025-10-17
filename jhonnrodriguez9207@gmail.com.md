@@ -13,8 +13,8 @@
 | **9. Operational considerations / maintainability** | 4 | Strong operational design: mentions CI/CD, monitoring (Prometheus, Grafana), backups, partitioning, and blue-green deploys. Could be improved with automated schema migration/rollback details.                                                                                                         |
 | **10. Clarity of notes & reasoning**                | 5 | Notes are detailed, structured, and clearly communicate reasoning. Includes SQL snippets, indexing strategy, and trade-off analysis. Demonstrates mature understanding and professional communication.                                                                                                  |
 
-Remarks:
+**Remarks:**
 The submission demonstrates mature database design and system thinking. The schema elegantly handles all business requirements, with extensibility for production scenarios. The notes and proposal files reflect architectural depth, security awareness, and operational foresight. Minor operational and multi-tenancy specifics could be expanded, but overall, this is an excellent and production-grade submission.
 
-Total 
+**Total**
 Score: 46 / 50 (Strong Pass with 92%)
