@@ -1,4 +1,4 @@
-# sidvermas1234-gmail.com
+# Siddharth Verma sidvermas1234-gmail.com
 
 | Criterion                                       | Score | Comments                                                                                                                                                                                                                                                                                                       |
 | ----------------------------------------------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -17,4 +17,4 @@ The submission shows solid understanding of relational modeling and messaging sy
 
 There’s room for improvement in schema unification (avoiding message table duplication), explicit multi-tenancy support, and more detailed operational strategy. However, the overall design is functional, consistent, and demonstrates good foundational thinking.
 
-Final Verdict: Score: 7.0 / 10 (Average Pass)
+Final Verdict: Score: 39 / 50 (Average Pass with 78%)
